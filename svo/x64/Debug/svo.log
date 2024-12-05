@@ -1,0 +1,23 @@
+﻿  main.cpp
+C:\Users\kyubi\source\repos\svo\svo\main.cpp(23,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kyubi\source\repos\svo\svo\main.cpp(28,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyubi\source\repos\svo\svo\main.cpp(28,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyubi\source\repos\svo\svo\main.cpp(28,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyubi\source\repos\svo\svo\main.cpp(28,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyubi\source\repos\svo\svo\main.cpp(33,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyubi\source\repos\svo\svo\main.cpp(34,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyubi\source\repos\svo\svo\main.cpp(55,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kyubi\source\repos\svo\svo\main.cpp(56,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kyubi\source\repos\svo\svo\main.cpp(67,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyubi\source\repos\svo\svo\main.cpp(67,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyubi\source\repos\svo\svo\main.cpp(71,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kyubi\source\repos\svo\svo\main.cpp(72,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyubi\source\repos\svo\svo\main.cpp(73,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyubi\source\repos\svo\svo\main.cpp(76,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyubi\source\repos\svo\svo\main.cpp(76,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyubi\source\repos\svo\svo\main.cpp(93,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyubi\source\repos\svo\svo\main.cpp(93,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kyubi\source\repos\svo\svo\main.cpp(120,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  svo.vcxproj -> C:\Users\kyubi\source\repos\svo\x64\Debug\svo.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
